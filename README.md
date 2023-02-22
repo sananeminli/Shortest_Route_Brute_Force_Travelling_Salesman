@@ -6,4 +6,6 @@ To use this program, you need to create an "input.txt" file with the coordinates
 
 To run this program, write java -jar shortest_route.jar in command line.
 
+Node size cant be more than 12 due to time complexity. 
+
 ![image](https://user-images.githubusercontent.com/57816597/219977881-f973970c-ef7b-48e4-a08a-88b452bfc7b0.png)
